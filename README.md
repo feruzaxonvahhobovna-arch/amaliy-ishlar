@@ -1,2 +1,5 @@
 # amaliy-ishlar
-# Foydalanuvchidan ismini so'rash      ism=input("Ismingiz nima7777&amp;&amp;?
+a=5
+b=10
+natija= a+b 
+print(natija)
